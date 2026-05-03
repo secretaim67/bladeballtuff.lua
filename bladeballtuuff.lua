@@ -1,7 +1,3 @@
---[[
-  blade ball — tweaked a bunch, not a "clean rewrite"
-  if something breaks ping me with the line # lol
-]]
 local sqrt = math.sqrt
 local min, max = math.min, math.max
 local TAB = "Secret.cc"
